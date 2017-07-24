@@ -1,5 +1,5 @@
 # Gmail Persist
-<h2>Gmail Knocker inspired by <a href="https://twitter.com/enigma0x3" target="_blank">@enigma0x3</a> <a href="https://github.com/enigma0x3/OutlookPersistence" target="_blank">OutlookPersistence</a></h2>
+<h2>Gmail Knocker inspired by <a href="https://twitter.com/enigma0x3" target="_blank">@enigma0x3's</a> <a href="https://github.com/enigma0x3/OutlookPersistence" target="_blank">OutlookPersistence script</a></h2>
 
 <h4>SYNOPSIS</h4>
 Uses a designated Gmail Email account as the middle man for persistence. 
@@ -17,7 +17,7 @@ http://172.16.0.1/powershell-oneliner.txt
 ```
 PS> ./GmailPersist.ps1
 ```<br>
-Now send and email with the following information:<ul>
+Now send an email with the following information:<ul>
 
 <li>FROM: (ATTACKER EMAIL)</li>
 <li>TO: (GMAIL ACCOUNT)</li>
